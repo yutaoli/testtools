@@ -1,0 +1,6 @@
+/root/project_code/testtools/cmake/Demo3/build/CMakeFiles/Demo.dir
+/root/project_code/testtools/cmake/Demo3/build/CMakeFiles/edit_cache.dir
+/root/project_code/testtools/cmake/Demo3/build/CMakeFiles/rebuild_cache.dir
+/root/project_code/testtools/cmake/Demo3/build/math/CMakeFiles/MathFunctions.dir
+/root/project_code/testtools/cmake/Demo3/build/math/CMakeFiles/edit_cache.dir
+/root/project_code/testtools/cmake/Demo3/build/math/CMakeFiles/rebuild_cache.dir
